@@ -2,7 +2,7 @@ import paramiko, sys, os, socket
 import threading, time
 from colorama import Fore
 
-print(Fore.YELLOW + "\n~ Welcome to PortScanner ~") 
+print(Fore.YELLOW + "\n~ Welcome to SSHBruteForce ~") 
 print(Fore.YELLOW + "\nCreated By:") 
 print(Fore.WHITE + " ____  _  _       ___")       
 print(Fore.WHITE + "|  _ \| || | ____/ _ \ _ __") 
